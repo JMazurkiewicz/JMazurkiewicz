@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello
 
-<!--
-**JMazurkiewicz/JMazurkiewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+Currently I am working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Bachelor's diploma thesis (mobile application developed with Flutter)
+* Various collage projects (e.g. AI algorithms, numerical methods)
+
+Check out my pinned project!
+
+## My stats
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JMazurkiewicz&show_icons=true&theme=onedark)](https://github.com/JMazurkiewicz)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMazurkiewicz&layout=compact&theme=onedark&langs_count=8)](https://github.com/JMazurkiewicz)
